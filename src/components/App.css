@@ -19,13 +19,3 @@ p {
     padding: 35vh;
     position: fixed;
 }
-
-@media screen and (max-width: 600px) {
-  p {
-    color:rgb(255, 255, 255);
-    font-family: 'Great Vibes', sans-serif;                                             
-    font-size: 300%;
-    padding: 55vh;
-    position: fixed ;
-  }
-}
